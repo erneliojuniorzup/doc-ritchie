@@ -1,5 +1,5 @@
-##GitOps
-
+##GitOps <h2>
+  
 ![Image of GitOps](img/gitops.jpg)
 
 ###Dennis flux
