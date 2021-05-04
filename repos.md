@@ -1,4 +1,4 @@
-###GitOps
+##GitOps
 
 ![Image of GitOps](img/gitops.jpg)
 
